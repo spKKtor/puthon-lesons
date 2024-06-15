@@ -1,0 +1,14 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.menu{
+    background-color: black;
+}
+
+.logo{
+    height: 600px;
+    background-image:url('../images/aleksandr,jpg');
+    background-size: cover;
+}
